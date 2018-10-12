@@ -1,0 +1,86 @@
+## Objetivo ##
+Desarrollar una heremienta que permita sum,ar y restar dos numeros. Desplegar en un campo de texta una vez que se presione un boton 
+
+Requisitos: 
+...¿Que tipo de numeros ?
+>Todos los numeros reales, enteros, punto decimal 
+
+...¿Rango de numeros ? CUantos digitos ?
+>3 digitos 
+
+...¿Las operaciones son al mismo tiempo? 
+>no
+
+...¿Senecesita guardar los resultados anteriores?
+>no
+
+...¿Que pasa una ves que se realizo la operacion? 
+>que marque donde est6a el error, y que no mande resultado 
+
+...¿Como se van desplegar los errores ?
+>Que marque donde esta el error, cual es el error y que no mande resultado
+
+...¿Hay alguna preferencia con as etiquetas?
+>Lasetiquetas deben de estar ajustadas al maximo numero de caracteres permitidos
+
+¿Tamaño de letra? 
+>16
+
+Notas: 
+**Agregar un boton de borrar** 
+
+
+Objetivo 
+Desarrollar una herramienta que permita sumar y restar el comjunto de numeros reales, enteros y con un punto decimal con un rango maximo de 4 digitos.
+El resultado se debe de desplegar una vez que se presiono el boton de "Resultado " en la palicacion y no debe de ser mayor a 4 digitos.
+Se debe de realizar la operacion de acuerdo a la opcion  selecionada.
+La aplicacion debe de desplegar un mensaje de error pidiendo al usuario introducir ambos valores cuando un campo no contenga imformacion
+Ambos campos deben de contener imformacion para poder realizar la operacion, caso contrario la aplicacion debe de desplegarser un mensaje de error pidiendo al usuario que ingrese ambos valores. 
+Los datos introduciods no deben de ser mayores a 3 digitos.
+El tamaño de letra debe de ser de 16px para los campos de entrda y resultado.
+Los campos en la forma solo deben de aceptar números.
+
+*** Analisis de requisitos ***
+1. Desarrollar una heramienta que permita sumar y restar el conjunto de numeros reales, enteros y con punto decimal.
+- [x] Único 
+- [x] No es contradictorio 
+- [x] Se puede probar
+- [x] No es ambiguo 
+
+2.El resultado se debe de desplegar una vez que se presiono el boton de "Resultado " en la palicacion y 
+- [x] Único 
+- [x] No es contradictorio 
+- [x] Se puede probar
+- [x] No es ambiguo 
+3.Se debe de realizar la operacion de acuerdo a la opción selecionada.
+- [x] Único 
+- [x] No es contradictorio 
+- [x] Se puede probar
+- [x] No es ambiguo 
+4.Ambos campos deben de contener imformacion para poder realizar la operacion, caso contrario la aplicacion debe de desplegarser un mensaje de error pidiendo al usuario que ingrese ambos valores. 
+- [x] Único 
+- [x] No es contradictorio 
+- [x] Se puede probar
+- [x] No es ambiguo
+5.
+La aplicacion debe de desplegar un mensaje de error pidiendo al usuario introducir ambos valores cuando un campo no contenga imformacion 
+- [x] Único 
+- [x] No es contradictorio 
+- [x] Se puede probar
+- [x] No es ambiguo
+
+6.Los datos introduciods no deben de ser mayores a 3 digitos.
+- [x] Único 
+- [c] No es contradictorio 
+- [x] Se puede probar
+- [x] No es ambiguo
+7.El tamaño de letra debe de ser de 16px para los campos de entrda y resultados.
+- [x] Único 
+- [x] No es contradictorio 
+- [x] Se puede probar
+- [x] No es ambiguo
+8.Los campos en la forma solo deben de aceptar números
+- [x] Único 
+- [x] No es contradictorio 
+- [x] Se puede probar
+- [x] No es ambiguo
