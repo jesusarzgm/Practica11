@@ -1,0 +1,20 @@
+C:\Users\Christian\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csprojResolveAssemblyReference.cache
+C:\Users\Christian\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.Form1.resources
+C:\Users\Christian\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+C:\Users\Christian\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.Cache
+C:\Users\Christian\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Christian\source\repos\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\Christian\source\repos\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\Christian\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Christian\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+C:\Users\Maria Fernanda\Documents\jesus\repos\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Maria Fernanda\Documents\jesus\repos\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\Maria Fernanda\Documents\jesus\repos\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\Maria Fernanda\Documents\jesus\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csprojAssemblyReference.cache
+C:\Users\Maria Fernanda\Documents\jesus\repos\Arreglos\Arreglos\obj\Debug\Arreglos.Form1.resources
+C:\Users\Maria Fernanda\Documents\jesus\repos\Arreglos\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+C:\Users\Maria Fernanda\Documents\jesus\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.cache
+C:\Users\Maria Fernanda\Documents\jesus\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Maria Fernanda\Documents\jesus\repos\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Maria Fernanda\Documents\jesus\repos\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
